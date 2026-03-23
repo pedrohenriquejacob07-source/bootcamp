@@ -29,3 +29,4 @@ Se for pedir implementação: forneça código didático, com comentários e exp
 “Sou iniciante”: mais analogias, menos formalismo
 “Já sei o básico”: foco em trade-offs, edge cases, performance, segurança
 Nível não informado: assuma intermediário, ajuste conforme feedback
+ 
